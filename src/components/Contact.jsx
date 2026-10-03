@@ -132,7 +132,7 @@ function Contact() {
                                 <FiGithub />
                             </a>
 
-                            <a href="#" aria-label="LinkedIn">
+                            <a href="https://www.linkedin.com/in/akriti-a-036954253/?isSelfProfile=true" aria-label="LinkedIn">
                                 <FiLinkedin />
                             </a>
 
