@@ -140,6 +140,9 @@ function Hero() {
                             <p className="indent-more">
                                 <span className="green">"React"</span>,
                             </p>
+                            <p className="indent-more">
+                                <span className="green">"React Native"</span>
+                            </p>
 
                             <p className="indent-more">
                                 <span className="green">"Node.js"</span>,
