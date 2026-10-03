@@ -21,7 +21,7 @@ function Projects() {
             ],
             image:
                 "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80",
-            github: "#",
+            github: "https://github.com/Akriti786/Portfolioo",
             demo: "#",
         },
 
@@ -38,7 +38,7 @@ function Projects() {
             ],
             image:
                 "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=80",
-            github: "#",
+            github: "https://github.com/Akriti786/WTW-advance",
             demo: "#",
         },
 
@@ -55,8 +55,8 @@ function Projects() {
             ],
             image:
                 "https://images.unsplash.com/photo-1534088568595-a066f410bcda?auto=format&fit=crop&w=1200&q=80",
-            github: "#",
-            demo: "#",
+            github: "https://github.com/Akriti786/Weather-Web",
+            demo: "https://weathers-app-six.vercel.app/",
         },
 
         {
@@ -91,7 +91,7 @@ function Projects() {
             ],
             image:
                 "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
-            github: "#",
+            github: "https://github.com/Akriti786/Food-Delivery-Web",
             demo: "#",
         },
 
@@ -108,7 +108,7 @@ function Projects() {
             ],
             image:
                 "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=80",
-            github: "#",
+            github: "https://github.com/Akriti786/CookSathi-App",
             demo: "#",
         },
     ];
